@@ -1,0 +1,111 @@
+{
+  "frames": [
+    {
+      "filename": "resources/animations/asda (2).png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 960,
+        "h": 576
+      },
+      "sourceSize": {
+        "w": 960,
+        "h": 576
+      },
+      "rotated": false,
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 960,
+        "h": 576
+      }
+    },
+    {
+      "filename": "resources/animations/asda (20).png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 960,
+        "h": 1152
+      },
+      "sourceSize": {
+        "w": 960,
+        "h": 1152
+      },
+      "rotated": false,
+      "frame": {
+        "x": 960,
+        "y": 0,
+        "w": 960,
+        "h": 1152
+      }
+    },
+    {
+      "filename": "resources/animations/asda (21).png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 960,
+        "h": 1152
+      },
+      "sourceSize": {
+        "w": 960,
+        "h": 1152
+      },
+      "rotated": false,
+      "frame": {
+        "x": 0,
+        "y": 576,
+        "w": 960,
+        "h": 1152
+      }
+    },
+    {
+      "filename": "resources/animations/asda (27).png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 960,
+        "h": 768
+      },
+      "sourceSize": {
+        "w": 960,
+        "h": 768
+      },
+      "rotated": false,
+      "frame": {
+        "x": 960,
+        "y": 1152,
+        "w": 960,
+        "h": 768
+      }
+    },
+    {
+      "filename": "resources/animations/hitphoton.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 960,
+        "h": 192
+      },
+      "sourceSize": {
+        "w": 960,
+        "h": 192
+      },
+      "rotated": false,
+      "frame": {
+        "x": 0,
+        "y": 1728,
+        "w": 960,
+        "h": 192
+      }
+    }
+  ],
+  "meta": {
+    "image": "12.png",
+    "size": {
+      "w": 1920,
+      "h": 1920
+    }
+  }
+}

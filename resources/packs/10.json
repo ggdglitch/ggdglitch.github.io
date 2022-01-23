@@ -1,0 +1,171 @@
+{
+  "frames": [
+    {
+      "filename": "resources/animations/asda (10).png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 960,
+        "h": 1152
+      },
+      "sourceSize": {
+        "w": 960,
+        "h": 1152
+      },
+      "rotated": false,
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 960,
+        "h": 1152
+      }
+    },
+    {
+      "filename": "resources/animations/asda (12).png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 960,
+        "h": 1152
+      },
+      "sourceSize": {
+        "w": 960,
+        "h": 1152
+      },
+      "rotated": false,
+      "frame": {
+        "x": 960,
+        "y": 0,
+        "w": 960,
+        "h": 1152
+      }
+    },
+    {
+      "filename": "resources/animations/asda (15).png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 960,
+        "h": 576
+      },
+      "sourceSize": {
+        "w": 960,
+        "h": 576
+      },
+      "rotated": false,
+      "frame": {
+        "x": 0,
+        "y": 1152,
+        "w": 960,
+        "h": 576
+      }
+    },
+    {
+      "filename": "resources/animations/asda (17).png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 960,
+        "h": 384
+      },
+      "sourceSize": {
+        "w": 960,
+        "h": 384
+      },
+      "rotated": false,
+      "frame": {
+        "x": 960,
+        "y": 1152,
+        "w": 960,
+        "h": 384
+      }
+    },
+    {
+      "filename": "resources/animations/asda (25).png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 960,
+        "h": 384
+      },
+      "sourceSize": {
+        "w": 960,
+        "h": 384
+      },
+      "rotated": false,
+      "frame": {
+        "x": 960,
+        "y": 1536,
+        "w": 960,
+        "h": 384
+      }
+    },
+    {
+      "filename": "resources/animations/hit1.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 768,
+        "h": 192
+      },
+      "sourceSize": {
+        "w": 768,
+        "h": 192
+      },
+      "rotated": false,
+      "frame": {
+        "x": 0,
+        "y": 1728,
+        "w": 768,
+        "h": 192
+      }
+    },
+    {
+      "filename": "resources/paperdolls/tv_acca_p1-1.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 144,
+        "h": 192
+      },
+      "sourceSize": {
+        "w": 144,
+        "h": 192
+      },
+      "rotated": true,
+      "frame": {
+        "x": 768,
+        "y": 1728,
+        "w": 192,
+        "h": 144
+      }
+    },
+    {
+      "filename": "resources/paperdolls/tv_acca_p1-1_c.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 144,
+        "h": 192
+      },
+      "sourceSize": {
+        "w": 144,
+        "h": 192
+      },
+      "rotated": true,
+      "frame": {
+        "x": 768,
+        "y": 1872,
+        "w": 192,
+        "h": 144
+      }
+    }
+  ],
+  "meta": {
+    "image": "10.png",
+    "size": {
+      "w": 1920,
+      "h": 2016
+    }
+  }
+}

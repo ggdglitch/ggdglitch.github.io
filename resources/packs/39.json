@@ -1,0 +1,171 @@
+{
+  "frames": [
+    {
+      "filename": "resources/animations/special13.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 960,
+        "h": 1152
+      },
+      "sourceSize": {
+        "w": 960,
+        "h": 1152
+      },
+      "rotated": false,
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 960,
+        "h": 1152
+      }
+    },
+    {
+      "filename": "resources/animations/special14.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 960,
+        "h": 960
+      },
+      "sourceSize": {
+        "w": 960,
+        "h": 960
+      },
+      "rotated": false,
+      "frame": {
+        "x": 960,
+        "y": 0,
+        "w": 960,
+        "h": 960
+      }
+    },
+    {
+      "filename": "resources/animations/special2.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 960,
+        "h": 576
+      },
+      "sourceSize": {
+        "w": 960,
+        "h": 576
+      },
+      "rotated": false,
+      "frame": {
+        "x": 960,
+        "y": 960,
+        "w": 960,
+        "h": 576
+      }
+    },
+    {
+      "filename": "resources/animations/special4.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 960,
+        "h": 576
+      },
+      "sourceSize": {
+        "w": 960,
+        "h": 576
+      },
+      "rotated": false,
+      "frame": {
+        "x": 0,
+        "y": 1152,
+        "w": 960,
+        "h": 576
+      }
+    },
+    {
+      "filename": "resources/animations/state3.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 960,
+        "h": 384
+      },
+      "sourceSize": {
+        "w": 960,
+        "h": 384
+      },
+      "rotated": false,
+      "frame": {
+        "x": 960,
+        "y": 1536,
+        "w": 960,
+        "h": 384
+      }
+    },
+    {
+      "filename": "resources/gui/error_window.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 452,
+        "h": 198
+      },
+      "sourceSize": {
+        "w": 452,
+        "h": 198
+      },
+      "rotated": false,
+      "frame": {
+        "x": 0,
+        "y": 1728,
+        "w": 452,
+        "h": 198
+      }
+    },
+    {
+      "filename": "resources/gui/forgotpass_window.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 452,
+        "h": 158
+      },
+      "sourceSize": {
+        "w": 452,
+        "h": 158
+      },
+      "rotated": false,
+      "frame": {
+        "x": 452,
+        "y": 1728,
+        "w": 452,
+        "h": 158
+      }
+    },
+    {
+      "filename": "resources/gui/login_window.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 452,
+        "h": 158
+      },
+      "sourceSize": {
+        "w": 452,
+        "h": 158
+      },
+      "rotated": false,
+      "frame": {
+        "x": 452,
+        "y": 1886,
+        "w": 452,
+        "h": 158
+      }
+    }
+  ],
+  "meta": {
+    "image": "39.png",
+    "size": {
+      "w": 1920,
+      "h": 2044
+    }
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "frames": [
+    {
+      "filename": "resources/animations/special1.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 960,
+        "h": 768
+      },
+      "sourceSize": {
+        "w": 960,
+        "h": 768
+      },
+      "rotated": false,
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 960,
+        "h": 768
+      }
+    },
+    {
+      "filename": "resources/animations/special10.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 960,
+        "h": 768
+      },
+      "sourceSize": {
+        "w": 960,
+        "h": 768
+      },
+      "rotated": false,
+      "frame": {
+        "x": 960,
+        "y": 0,
+        "w": 960,
+        "h": 768
+      }
+    },
+    {
+      "filename": "resources/animations/special11.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 960,
+        "h": 960
+      },
+      "sourceSize": {
+        "w": 960,
+        "h": 960
+      },
+      "rotated": false,
+      "frame": {
+        "x": 0,
+        "y": 768,
+        "w": 960,
+        "h": 960
+      }
+    },
+    {
+      "filename": "resources/animations/special12.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 960,
+        "h": 960
+      },
+      "sourceSize": {
+        "w": 960,
+        "h": 960
+      },
+      "rotated": false,
+      "frame": {
+        "x": 960,
+        "y": 768,
+        "w": 960,
+        "h": 960
+      }
+    },
+    {
+      "filename": "resources/gui/character.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 220,
+        "h": 340
+      },
+      "sourceSize": {
+        "w": 220,
+        "h": 340
+      },
+      "rotated": true,
+      "frame": {
+        "x": 0,
+        "y": 1728,
+        "w": 340,
+        "h": 220
+      }
+    },
+    {
+      "filename": "resources/gui/chatbox.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 386,
+        "h": 162
+      },
+      "sourceSize": {
+        "w": 386,
+        "h": 162
+      },
+      "rotated": false,
+      "frame": {
+        "x": 340,
+        "y": 1728,
+        "w": 386,
+        "h": 162
+      }
+    },
+    {
+      "filename": "resources/gui/createchar_window.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 452,
+        "h": 198
+      },
+      "sourceSize": {
+        "w": 452,
+        "h": 198
+      },
+      "rotated": false,
+      "frame": {
+        "x": 726,
+        "y": 1728,
+        "w": 452,
+        "h": 198
+      }
+    },
+    {
+      "filename": "resources/gui/credits_window.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 452,
+        "h": 262
+      },
+      "sourceSize": {
+        "w": 452,
+        "h": 262
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1178,
+        "y": 1728,
+        "w": 452,
+        "h": 262
+      }
+    },
+    {
+      "filename": "resources/gui/friends.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 220,
+        "h": 339
+      },
+      "sourceSize": {
+        "w": 220,
+        "h": 339
+      },
+      "rotated": true,
+      "frame": {
+        "x": 1630,
+        "y": 1728,
+        "w": 339,
+        "h": 220
+      }
+    }
+  ],
+  "meta": {
+    "image": "38.png",
+    "size": {
+      "w": 1969,
+      "h": 1990
+    }
+  }
+}

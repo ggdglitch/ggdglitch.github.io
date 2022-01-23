@@ -1,0 +1,231 @@
+{
+  "frames": [
+    {
+      "filename": "resources/animations/light3.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 960,
+        "h": 1152
+      },
+      "sourceSize": {
+        "w": 960,
+        "h": 1152
+      },
+      "rotated": false,
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 960,
+        "h": 1152
+      }
+    },
+    {
+      "filename": "resources/animations/light4.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 960,
+        "h": 1152
+      },
+      "sourceSize": {
+        "w": 960,
+        "h": 1152
+      },
+      "rotated": false,
+      "frame": {
+        "x": 960,
+        "y": 0,
+        "w": 960,
+        "h": 1152
+      }
+    },
+    {
+      "filename": "resources/animations/magic1.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 960,
+        "h": 576
+      },
+      "sourceSize": {
+        "w": 960,
+        "h": 576
+      },
+      "rotated": false,
+      "frame": {
+        "x": 0,
+        "y": 1152,
+        "w": 960,
+        "h": 576
+      }
+    },
+    {
+      "filename": "resources/animations/magic2.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 960,
+        "h": 768
+      },
+      "sourceSize": {
+        "w": 960,
+        "h": 768
+      },
+      "rotated": false,
+      "frame": {
+        "x": 960,
+        "y": 1152,
+        "w": 960,
+        "h": 768
+      }
+    },
+    {
+      "filename": "resources/paperdolls/tv_clothing1_p19.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 144,
+        "h": 192
+      },
+      "sourceSize": {
+        "w": 144,
+        "h": 192
+      },
+      "rotated": false,
+      "frame": {
+        "x": 0,
+        "y": 1728,
+        "w": 144,
+        "h": 192
+      }
+    },
+    {
+      "filename": "resources/paperdolls/tv_clothing1_p19_c.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 144,
+        "h": 192
+      },
+      "sourceSize": {
+        "w": 144,
+        "h": 192
+      },
+      "rotated": false,
+      "frame": {
+        "x": 144,
+        "y": 1728,
+        "w": 144,
+        "h": 192
+      }
+    },
+    {
+      "filename": "resources/paperdolls/tv_clothing1_p2-2.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 144,
+        "h": 192
+      },
+      "sourceSize": {
+        "w": 144,
+        "h": 192
+      },
+      "rotated": false,
+      "frame": {
+        "x": 288,
+        "y": 1728,
+        "w": 144,
+        "h": 192
+      }
+    },
+    {
+      "filename": "resources/paperdolls/tv_clothing1_p2-2_c.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 144,
+        "h": 192
+      },
+      "sourceSize": {
+        "w": 144,
+        "h": 192
+      },
+      "rotated": false,
+      "frame": {
+        "x": 432,
+        "y": 1728,
+        "w": 144,
+        "h": 192
+      }
+    },
+    {
+      "filename": "resources/paperdolls/tv_clothing1_p2-3.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 144,
+        "h": 192
+      },
+      "sourceSize": {
+        "w": 144,
+        "h": 192
+      },
+      "rotated": false,
+      "frame": {
+        "x": 576,
+        "y": 1728,
+        "w": 144,
+        "h": 192
+      }
+    },
+    {
+      "filename": "resources/paperdolls/tv_clothing1_p2-7.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 144,
+        "h": 192
+      },
+      "sourceSize": {
+        "w": 144,
+        "h": 192
+      },
+      "rotated": true,
+      "frame": {
+        "x": 720,
+        "y": 1728,
+        "w": 192,
+        "h": 144
+      }
+    },
+    {
+      "filename": "resources/paperdolls/tv_clothing1_p2-7_c.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 144,
+        "h": 192
+      },
+      "sourceSize": {
+        "w": 144,
+        "h": 192
+      },
+      "rotated": true,
+      "frame": {
+        "x": 720,
+        "y": 1872,
+        "w": 192,
+        "h": 144
+      }
+    }
+  ],
+  "meta": {
+    "image": "31.png",
+    "size": {
+      "w": 1920,
+      "h": 2016
+    }
+  }
+}

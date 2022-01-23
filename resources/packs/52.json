@@ -1,0 +1,311 @@
+{
+  "frames": [
+    {
+      "filename": "resources/paperdolls/sv_accb_p06.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 576,
+        "h": 384
+      },
+      "sourceSize": {
+        "w": 576,
+        "h": 384
+      },
+      "rotated": false,
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 576,
+        "h": 384
+      }
+    },
+    {
+      "filename": "resources/paperdolls/sv_accb_p06_c.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 576,
+        "h": 384
+      },
+      "sourceSize": {
+        "w": 576,
+        "h": 384
+      },
+      "rotated": false,
+      "frame": {
+        "x": 576,
+        "y": 0,
+        "w": 576,
+        "h": 384
+      }
+    },
+    {
+      "filename": "resources/paperdolls/sv_accb_p07.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 576,
+        "h": 384
+      },
+      "sourceSize": {
+        "w": 576,
+        "h": 384
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1152,
+        "y": 0,
+        "w": 576,
+        "h": 384
+      }
+    },
+    {
+      "filename": "resources/paperdolls/sv_accb_p07_c.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 576,
+        "h": 384
+      },
+      "sourceSize": {
+        "w": 576,
+        "h": 384
+      },
+      "rotated": true,
+      "frame": {
+        "x": 0,
+        "y": 384,
+        "w": 384,
+        "h": 576
+      }
+    },
+    {
+      "filename": "resources/paperdolls/sv_accb_p08.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 576,
+        "h": 384
+      },
+      "sourceSize": {
+        "w": 576,
+        "h": 384
+      },
+      "rotated": true,
+      "frame": {
+        "x": 0,
+        "y": 960,
+        "w": 384,
+        "h": 576
+      }
+    },
+    {
+      "filename": "resources/paperdolls/sv_accb_p08_c.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 576,
+        "h": 384
+      },
+      "sourceSize": {
+        "w": 576,
+        "h": 384
+      },
+      "rotated": false,
+      "frame": {
+        "x": 0,
+        "y": 1536,
+        "w": 576,
+        "h": 384
+      }
+    },
+    {
+      "filename": "resources/paperdolls/sv_accb_p09.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 576,
+        "h": 384
+      },
+      "sourceSize": {
+        "w": 576,
+        "h": 384
+      },
+      "rotated": true,
+      "frame": {
+        "x": 384,
+        "y": 384,
+        "w": 384,
+        "h": 576
+      }
+    },
+    {
+      "filename": "resources/paperdolls/sv_accb_p09_c.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 576,
+        "h": 384
+      },
+      "sourceSize": {
+        "w": 576,
+        "h": 384
+      },
+      "rotated": true,
+      "frame": {
+        "x": 384,
+        "y": 960,
+        "w": 384,
+        "h": 576
+      }
+    },
+    {
+      "filename": "resources/paperdolls/sv_accb_p10.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 576,
+        "h": 384
+      },
+      "sourceSize": {
+        "w": 576,
+        "h": 384
+      },
+      "rotated": false,
+      "frame": {
+        "x": 576,
+        "y": 1536,
+        "w": 576,
+        "h": 384
+      }
+    },
+    {
+      "filename": "resources/paperdolls/sv_accb_p10_c.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 576,
+        "h": 384
+      },
+      "sourceSize": {
+        "w": 576,
+        "h": 384
+      },
+      "rotated": true,
+      "frame": {
+        "x": 768,
+        "y": 384,
+        "w": 384,
+        "h": 576
+      }
+    },
+    {
+      "filename": "resources/paperdolls/sv_beard_p01.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 576,
+        "h": 384
+      },
+      "sourceSize": {
+        "w": 576,
+        "h": 384
+      },
+      "rotated": true,
+      "frame": {
+        "x": 768,
+        "y": 960,
+        "w": 384,
+        "h": 576
+      }
+    },
+    {
+      "filename": "resources/paperdolls/sv_beard_p01_c.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 576,
+        "h": 384
+      },
+      "sourceSize": {
+        "w": 576,
+        "h": 384
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1152,
+        "y": 384,
+        "w": 576,
+        "h": 384
+      }
+    },
+    {
+      "filename": "resources/paperdolls/sv_beard_p02.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 576,
+        "h": 384
+      },
+      "sourceSize": {
+        "w": 576,
+        "h": 384
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1152,
+        "y": 768,
+        "w": 576,
+        "h": 384
+      }
+    },
+    {
+      "filename": "resources/paperdolls/sv_beard_p02_c.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 576,
+        "h": 384
+      },
+      "sourceSize": {
+        "w": 576,
+        "h": 384
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1152,
+        "y": 1152,
+        "w": 576,
+        "h": 384
+      }
+    },
+    {
+      "filename": "resources/paperdolls/sv_beard_p03.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 576,
+        "h": 384
+      },
+      "sourceSize": {
+        "w": 576,
+        "h": 384
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1152,
+        "y": 1536,
+        "w": 576,
+        "h": 384
+      }
+    }
+  ],
+  "meta": {
+    "image": "52.png",
+    "size": {
+      "w": 1728,
+      "h": 1920
+    }
+  }
+}

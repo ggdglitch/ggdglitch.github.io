@@ -1,0 +1,171 @@
+{
+  "frames": [
+    {
+      "filename": "resources/animations/special17.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 960,
+        "h": 1152
+      },
+      "sourceSize": {
+        "w": 960,
+        "h": 1152
+      },
+      "rotated": false,
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 960,
+        "h": 1152
+      }
+    },
+    {
+      "filename": "resources/animations/special3.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 960,
+        "h": 960
+      },
+      "sourceSize": {
+        "w": 960,
+        "h": 960
+      },
+      "rotated": false,
+      "frame": {
+        "x": 960,
+        "y": 0,
+        "w": 960,
+        "h": 960
+      }
+    },
+    {
+      "filename": "resources/animations/special9.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 960,
+        "h": 768
+      },
+      "sourceSize": {
+        "w": 960,
+        "h": 768
+      },
+      "rotated": false,
+      "frame": {
+        "x": 960,
+        "y": 960,
+        "w": 960,
+        "h": 768
+      }
+    },
+    {
+      "filename": "resources/animations/state1.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 960,
+        "h": 576
+      },
+      "sourceSize": {
+        "w": 960,
+        "h": 576
+      },
+      "rotated": false,
+      "frame": {
+        "x": 0,
+        "y": 1152,
+        "w": 960,
+        "h": 576
+      }
+    },
+    {
+      "filename": "resources/gui/event2.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 520,
+        "h": 208
+      },
+      "sourceSize": {
+        "w": 520,
+        "h": 208
+      },
+      "rotated": false,
+      "frame": {
+        "x": 0,
+        "y": 1728,
+        "w": 520,
+        "h": 208
+      }
+    },
+    {
+      "filename": "resources/gui/event3.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 520,
+        "h": 254
+      },
+      "sourceSize": {
+        "w": 520,
+        "h": 254
+      },
+      "rotated": false,
+      "frame": {
+        "x": 520,
+        "y": 1728,
+        "w": 520,
+        "h": 254
+      }
+    },
+    {
+      "filename": "resources/gui/event4.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 520,
+        "h": 300
+      },
+      "sourceSize": {
+        "w": 520,
+        "h": 300
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1040,
+        "y": 1728,
+        "w": 520,
+        "h": 300
+      }
+    },
+    {
+      "filename": "resources/gui/ingame_menu.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 452,
+        "h": 213
+      },
+      "sourceSize": {
+        "w": 452,
+        "h": 213
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1560,
+        "y": 1728,
+        "w": 452,
+        "h": 213
+      }
+    }
+  ],
+  "meta": {
+    "image": "41.png",
+    "size": {
+      "w": 2012,
+      "h": 2028
+    }
+  }
+}

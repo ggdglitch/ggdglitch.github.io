@@ -1,0 +1,131 @@
+{
+  "frames": [
+    {
+      "filename": "resources/animations/asda (5).png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 960,
+        "h": 960
+      },
+      "sourceSize": {
+        "w": 960,
+        "h": 960
+      },
+      "rotated": false,
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 960,
+        "h": 960
+      }
+    },
+    {
+      "filename": "resources/animations/asda (7).png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 960,
+        "h": 960
+      },
+      "sourceSize": {
+        "w": 960,
+        "h": 960
+      },
+      "rotated": false,
+      "frame": {
+        "x": 0,
+        "y": 960,
+        "w": 960,
+        "h": 960
+      }
+    },
+    {
+      "filename": "resources/animations/asda (8).png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 960,
+        "h": 768
+      },
+      "sourceSize": {
+        "w": 960,
+        "h": 768
+      },
+      "rotated": false,
+      "frame": {
+        "x": 960,
+        "y": 0,
+        "w": 960,
+        "h": 768
+      }
+    },
+    {
+      "filename": "resources/animations/attack02.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 960,
+        "h": 384
+      },
+      "sourceSize": {
+        "w": 960,
+        "h": 384
+      },
+      "rotated": false,
+      "frame": {
+        "x": 960,
+        "y": 768,
+        "w": 960,
+        "h": 384
+      }
+    },
+    {
+      "filename": "resources/animations/attack10.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 960,
+        "h": 576
+      },
+      "sourceSize": {
+        "w": 960,
+        "h": 576
+      },
+      "rotated": false,
+      "frame": {
+        "x": 960,
+        "y": 1152,
+        "w": 960,
+        "h": 576
+      }
+    },
+    {
+      "filename": "resources/animations/slash.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 960,
+        "h": 192
+      },
+      "sourceSize": {
+        "w": 960,
+        "h": 192
+      },
+      "rotated": false,
+      "frame": {
+        "x": 960,
+        "y": 1728,
+        "w": 960,
+        "h": 192
+      }
+    }
+  ],
+  "meta": {
+    "image": "16.png",
+    "size": {
+      "w": 1920,
+      "h": 1920
+    }
+  }
+}

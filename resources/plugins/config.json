@@ -1,0 +1,114 @@
+﻿{
+  "EntityUpdateTimer": 100,
+  "TileSize": {
+    "X": 8,
+    "Y": 8
+  },
+  "MinimumZoom": 0,
+  "MaximumZoom": 100,
+  "DefaultZoom": 65,
+  "ZoomStep": 5,
+  "Images": {
+    "Player": "minimap_player.png",
+    "PartyMember": "minimap_partymember.png",
+    "MyEntity": "minimap_me.png",
+    "Npc": "minimap_npc.png",
+    "Event": "minimap_event.png",
+    "Resource": {
+      "None": "minimap_resource_none.png",
+      "Axe": "minimap_resource_axe.png",
+      "Pickaxe": "minimap_resource_pickaxe.png",
+      "Shovel": "minimap_resource_shovel.png",
+      "Fishing Rod": "minimap_resource_fishingrod.png"
+    },
+    "Default": "minimap_npc.png"
+  },
+  "Colors": {
+    "Player": {
+      "A": 255,
+      "R": 0,
+      "G": 255,
+      "B": 255
+    },
+    "PartyMember": {
+      "A": 255,
+      "R": 0,
+      "G": 0,
+      "B": 255
+    },
+    "MyEntity": {
+      "A": 255,
+      "R": 255,
+      "G": 0,
+      "B": 0
+    },
+    "Npc": {
+      "A": 255,
+      "R": 255,
+      "G": 165,
+      "B": 0
+    },
+    "Event": {
+      "A": 255,
+      "R": 0,
+      "G": 0,
+      "B": 255
+    },
+    "Resource": {
+      "None": {
+        "A": 255,
+        "R": 255,
+        "G": 255,
+        "B": 255
+      },
+      "Axe": {
+        "A": 255,
+        "R": 34,
+        "G": 139,
+        "B": 34
+      },
+      "Pickaxe": {
+        "A": 255,
+        "R": 128,
+        "G": 128,
+        "B": 128
+      },
+      "Shovel": {
+        "A": 255,
+        "R": 139,
+        "G": 69,
+        "B": 19
+      },
+      "Fishing Rod": {
+        "A": 255,
+        "R": 0,
+        "G": 0,
+        "B": 255
+      }
+    },
+    "Default": {
+      "A": 255,
+      "R": 255,
+      "G": 0,
+      "B": 255
+    }
+  },
+  "RenderLayers": [
+    "Ground",
+    "Mask 1",
+    "Mask 2",
+    "Ground",
+    "Mask 1",
+    "Mask 2",
+    "Ground",
+    "Mask 1",
+    "Mask 2",
+    "Ground",
+    "Mask 1",
+    "Mask 2",
+    "Ground",
+    "Mask 1",
+    "Mask 2"
+  ],
+  "IsEnabled": true
+}

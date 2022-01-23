@@ -1,0 +1,71 @@
+{
+  "frames": [
+    {
+      "filename": "resources/gui/questoffer.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 442,
+        "h": 469
+      },
+      "sourceSize": {
+        "w": 442,
+        "h": 469
+      },
+      "rotated": false,
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 442,
+        "h": 469
+      }
+    },
+    {
+      "filename": "resources/gui/shop.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 442,
+        "h": 469
+      },
+      "sourceSize": {
+        "w": 442,
+        "h": 469
+      },
+      "rotated": false,
+      "frame": {
+        "x": 0,
+        "y": 469,
+        "w": 442,
+        "h": 469
+      }
+    },
+    {
+      "filename": "resources/gui/trade.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 442,
+        "h": 469
+      },
+      "sourceSize": {
+        "w": 442,
+        "h": 469
+      },
+      "rotated": false,
+      "frame": {
+        "x": 0,
+        "y": 938,
+        "w": 442,
+        "h": 469
+      }
+    }
+  ],
+  "meta": {
+    "image": "72.png",
+    "size": {
+      "w": 442,
+      "h": 1407
+    }
+  }
+}

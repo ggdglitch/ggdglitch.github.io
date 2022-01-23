@@ -1,0 +1,111 @@
+{
+  "frames": [
+    {
+      "filename": "resources/animations/gun2.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 960,
+        "h": 960
+      },
+      "sourceSize": {
+        "w": 960,
+        "h": 960
+      },
+      "rotated": false,
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 960,
+        "h": 960
+      }
+    },
+    {
+      "filename": "resources/animations/heal1.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 960,
+        "h": 1152
+      },
+      "sourceSize": {
+        "w": 960,
+        "h": 1152
+      },
+      "rotated": true,
+      "frame": {
+        "x": 0,
+        "y": 960,
+        "w": 1152,
+        "h": 960
+      }
+    },
+    {
+      "filename": "resources/animations/heal4.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 960,
+        "h": 960
+      },
+      "sourceSize": {
+        "w": 960,
+        "h": 960
+      },
+      "rotated": false,
+      "frame": {
+        "x": 960,
+        "y": 0,
+        "w": 960,
+        "h": 960
+      }
+    },
+    {
+      "filename": "resources/animations/hitspecial1.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 960,
+        "h": 384
+      },
+      "sourceSize": {
+        "w": 960,
+        "h": 384
+      },
+      "rotated": true,
+      "frame": {
+        "x": 1152,
+        "y": 960,
+        "w": 384,
+        "h": 960
+      }
+    },
+    {
+      "filename": "resources/animations/hitspecial2.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 960,
+        "h": 384
+      },
+      "sourceSize": {
+        "w": 960,
+        "h": 384
+      },
+      "rotated": true,
+      "frame": {
+        "x": 1536,
+        "y": 960,
+        "w": 384,
+        "h": 960
+      }
+    }
+  ],
+  "meta": {
+    "image": "26.png",
+    "size": {
+      "w": 1920,
+      "h": 1920
+    }
+  }
+}

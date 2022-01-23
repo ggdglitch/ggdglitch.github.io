@@ -1,0 +1,151 @@
+{
+  "frames": [
+    {
+      "filename": "resources/animations/special15.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 960,
+        "h": 1152
+      },
+      "sourceSize": {
+        "w": 960,
+        "h": 1152
+      },
+      "rotated": false,
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 960,
+        "h": 1152
+      }
+    },
+    {
+      "filename": "resources/animations/special16.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 960,
+        "h": 1152
+      },
+      "sourceSize": {
+        "w": 960,
+        "h": 1152
+      },
+      "rotated": false,
+      "frame": {
+        "x": 960,
+        "y": 0,
+        "w": 960,
+        "h": 1152
+      }
+    },
+    {
+      "filename": "resources/animations/special5.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 960,
+        "h": 576
+      },
+      "sourceSize": {
+        "w": 960,
+        "h": 576
+      },
+      "rotated": false,
+      "frame": {
+        "x": 0,
+        "y": 1152,
+        "w": 960,
+        "h": 576
+      }
+    },
+    {
+      "filename": "resources/animations/special8.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 960,
+        "h": 768
+      },
+      "sourceSize": {
+        "w": 960,
+        "h": 768
+      },
+      "rotated": false,
+      "frame": {
+        "x": 960,
+        "y": 1152,
+        "w": 960,
+        "h": 768
+      }
+    },
+    {
+      "filename": "resources/gui/event1.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 520,
+        "h": 162
+      },
+      "sourceSize": {
+        "w": 520,
+        "h": 162
+      },
+      "rotated": false,
+      "frame": {
+        "x": 0,
+        "y": 1728,
+        "w": 520,
+        "h": 162
+      }
+    },
+    {
+      "filename": "resources/gui/inventory.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 220,
+        "h": 338
+      },
+      "sourceSize": {
+        "w": 220,
+        "h": 338
+      },
+      "rotated": true,
+      "frame": {
+        "x": 520,
+        "y": 1728,
+        "w": 338,
+        "h": 220
+      }
+    },
+    {
+      "filename": "resources/gui/resetpass_window.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 452,
+        "h": 158
+      },
+      "sourceSize": {
+        "w": 452,
+        "h": 158
+      },
+      "rotated": false,
+      "frame": {
+        "x": 0,
+        "y": 1890,
+        "w": 452,
+        "h": 158
+      }
+    }
+  ],
+  "meta": {
+    "image": "40.png",
+    "size": {
+      "w": 1920,
+      "h": 2048
+    }
+  }
+}

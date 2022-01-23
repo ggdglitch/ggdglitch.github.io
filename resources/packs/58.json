@@ -1,0 +1,311 @@
+{
+  "frames": [
+    {
+      "filename": "resources/paperdolls/sv_clothing1_p15.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 576,
+        "h": 384
+      },
+      "sourceSize": {
+        "w": 576,
+        "h": 384
+      },
+      "rotated": false,
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 576,
+        "h": 384
+      }
+    },
+    {
+      "filename": "resources/paperdolls/sv_clothing1_p15_c.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 576,
+        "h": 384
+      },
+      "sourceSize": {
+        "w": 576,
+        "h": 384
+      },
+      "rotated": false,
+      "frame": {
+        "x": 576,
+        "y": 0,
+        "w": 576,
+        "h": 384
+      }
+    },
+    {
+      "filename": "resources/paperdolls/sv_clothing1_p16.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 576,
+        "h": 384
+      },
+      "sourceSize": {
+        "w": 576,
+        "h": 384
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1152,
+        "y": 0,
+        "w": 576,
+        "h": 384
+      }
+    },
+    {
+      "filename": "resources/paperdolls/sv_clothing1_p16_c.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 576,
+        "h": 384
+      },
+      "sourceSize": {
+        "w": 576,
+        "h": 384
+      },
+      "rotated": true,
+      "frame": {
+        "x": 0,
+        "y": 384,
+        "w": 384,
+        "h": 576
+      }
+    },
+    {
+      "filename": "resources/paperdolls/sv_clothing1_p17.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 576,
+        "h": 384
+      },
+      "sourceSize": {
+        "w": 576,
+        "h": 384
+      },
+      "rotated": true,
+      "frame": {
+        "x": 0,
+        "y": 960,
+        "w": 384,
+        "h": 576
+      }
+    },
+    {
+      "filename": "resources/paperdolls/sv_clothing1_p17_c.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 576,
+        "h": 384
+      },
+      "sourceSize": {
+        "w": 576,
+        "h": 384
+      },
+      "rotated": false,
+      "frame": {
+        "x": 0,
+        "y": 1536,
+        "w": 576,
+        "h": 384
+      }
+    },
+    {
+      "filename": "resources/paperdolls/sv_clothing1_p18.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 576,
+        "h": 384
+      },
+      "sourceSize": {
+        "w": 576,
+        "h": 384
+      },
+      "rotated": true,
+      "frame": {
+        "x": 384,
+        "y": 384,
+        "w": 384,
+        "h": 576
+      }
+    },
+    {
+      "filename": "resources/paperdolls/sv_clothing1_p18_c.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 576,
+        "h": 384
+      },
+      "sourceSize": {
+        "w": 576,
+        "h": 384
+      },
+      "rotated": true,
+      "frame": {
+        "x": 384,
+        "y": 960,
+        "w": 384,
+        "h": 576
+      }
+    },
+    {
+      "filename": "resources/paperdolls/sv_clothing1_p19.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 576,
+        "h": 384
+      },
+      "sourceSize": {
+        "w": 576,
+        "h": 384
+      },
+      "rotated": false,
+      "frame": {
+        "x": 576,
+        "y": 1536,
+        "w": 576,
+        "h": 384
+      }
+    },
+    {
+      "filename": "resources/paperdolls/sv_clothing1_p19_c.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 576,
+        "h": 384
+      },
+      "sourceSize": {
+        "w": 576,
+        "h": 384
+      },
+      "rotated": true,
+      "frame": {
+        "x": 768,
+        "y": 384,
+        "w": 384,
+        "h": 576
+      }
+    },
+    {
+      "filename": "resources/paperdolls/sv_clothing1_p20.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 576,
+        "h": 384
+      },
+      "sourceSize": {
+        "w": 576,
+        "h": 384
+      },
+      "rotated": true,
+      "frame": {
+        "x": 768,
+        "y": 960,
+        "w": 384,
+        "h": 576
+      }
+    },
+    {
+      "filename": "resources/paperdolls/sv_clothing1_p20_c.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 576,
+        "h": 384
+      },
+      "sourceSize": {
+        "w": 576,
+        "h": 384
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1152,
+        "y": 384,
+        "w": 576,
+        "h": 384
+      }
+    },
+    {
+      "filename": "resources/paperdolls/sv_clothing1_p21.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 576,
+        "h": 384
+      },
+      "sourceSize": {
+        "w": 576,
+        "h": 384
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1152,
+        "y": 768,
+        "w": 576,
+        "h": 384
+      }
+    },
+    {
+      "filename": "resources/paperdolls/sv_clothing1_p21_c.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 576,
+        "h": 384
+      },
+      "sourceSize": {
+        "w": 576,
+        "h": 384
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1152,
+        "y": 1152,
+        "w": 576,
+        "h": 384
+      }
+    },
+    {
+      "filename": "resources/paperdolls/sv_clothing1_p22.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 576,
+        "h": 384
+      },
+      "sourceSize": {
+        "w": 576,
+        "h": 384
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1152,
+        "y": 1536,
+        "w": 576,
+        "h": 384
+      }
+    }
+  ],
+  "meta": {
+    "image": "58.png",
+    "size": {
+      "w": 1728,
+      "h": 1920
+    }
+  }
+}

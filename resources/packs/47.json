@@ -1,0 +1,151 @@
+{
+  "frames": [
+    {
+      "filename": "resources/animations/sword5.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 960,
+        "h": 960
+      },
+      "sourceSize": {
+        "w": 960,
+        "h": 960
+      },
+      "rotated": false,
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 960,
+        "h": 960
+      }
+    },
+    {
+      "filename": "resources/animations/sword7.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 960,
+        "h": 768
+      },
+      "sourceSize": {
+        "w": 960,
+        "h": 768
+      },
+      "rotated": true,
+      "frame": {
+        "x": 0,
+        "y": 960,
+        "w": 768,
+        "h": 960
+      }
+    },
+    {
+      "filename": "resources/animations/sword8.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 960,
+        "h": 960
+      },
+      "sourceSize": {
+        "w": 960,
+        "h": 960
+      },
+      "rotated": false,
+      "frame": {
+        "x": 768,
+        "y": 960,
+        "w": 960,
+        "h": 960
+      }
+    },
+    {
+      "filename": "resources/animations/thunder2.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 960,
+        "h": 384
+      },
+      "sourceSize": {
+        "w": 960,
+        "h": 384
+      },
+      "rotated": true,
+      "frame": {
+        "x": 960,
+        "y": 0,
+        "w": 384,
+        "h": 960
+      }
+    },
+    {
+      "filename": "resources/animations/water1.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 960,
+        "h": 576
+      },
+      "sourceSize": {
+        "w": 960,
+        "h": 576
+      },
+      "rotated": true,
+      "frame": {
+        "x": 1344,
+        "y": 0,
+        "w": 576,
+        "h": 960
+      }
+    },
+    {
+      "filename": "resources/gui/spelldescexpanded.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 364,
+        "h": 244
+      },
+      "sourceSize": {
+        "w": 364,
+        "h": 244
+      },
+      "rotated": true,
+      "frame": {
+        "x": 1728,
+        "y": 960,
+        "w": 244,
+        "h": 364
+      }
+    },
+    {
+      "filename": "resources/gui/spells.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 220,
+        "h": 340
+      },
+      "sourceSize": {
+        "w": 220,
+        "h": 340
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1728,
+        "y": 1324,
+        "w": 220,
+        "h": 340
+      }
+    }
+  ],
+  "meta": {
+    "image": "47.png",
+    "size": {
+      "w": 1972,
+      "h": 1920
+    }
+  }
+}

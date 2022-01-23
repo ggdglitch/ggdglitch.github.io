@@ -1,0 +1,211 @@
+{
+  "frames": [
+    {
+      "filename": "resources/animations/wind5.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 960,
+        "h": 1152
+      },
+      "sourceSize": {
+        "w": 960,
+        "h": 1152
+      },
+      "rotated": false,
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 960,
+        "h": 1152
+      }
+    },
+    {
+      "filename": "resources/paperdolls/sv_acca_p02.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 576,
+        "h": 384
+      },
+      "sourceSize": {
+        "w": 576,
+        "h": 384
+      },
+      "rotated": true,
+      "frame": {
+        "x": 0,
+        "y": 1152,
+        "w": 384,
+        "h": 576
+      }
+    },
+    {
+      "filename": "resources/paperdolls/sv_acca_p02_c.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 576,
+        "h": 384
+      },
+      "sourceSize": {
+        "w": 576,
+        "h": 384
+      },
+      "rotated": true,
+      "frame": {
+        "x": 384,
+        "y": 1152,
+        "w": 384,
+        "h": 576
+      }
+    },
+    {
+      "filename": "resources/paperdolls/sv_acca_p03.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 576,
+        "h": 384
+      },
+      "sourceSize": {
+        "w": 576,
+        "h": 384
+      },
+      "rotated": true,
+      "frame": {
+        "x": 768,
+        "y": 1152,
+        "w": 384,
+        "h": 576
+      }
+    },
+    {
+      "filename": "resources/paperdolls/sv_acca_p03_c.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 576,
+        "h": 384
+      },
+      "sourceSize": {
+        "w": 576,
+        "h": 384
+      },
+      "rotated": false,
+      "frame": {
+        "x": 960,
+        "y": 0,
+        "w": 576,
+        "h": 384
+      }
+    },
+    {
+      "filename": "resources/paperdolls/sv_acca_p04.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 576,
+        "h": 384
+      },
+      "sourceSize": {
+        "w": 576,
+        "h": 384
+      },
+      "rotated": true,
+      "frame": {
+        "x": 960,
+        "y": 384,
+        "w": 384,
+        "h": 576
+      }
+    },
+    {
+      "filename": "resources/paperdolls/sv_acca_p04_c.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 576,
+        "h": 384
+      },
+      "sourceSize": {
+        "w": 576,
+        "h": 384
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1152,
+        "y": 960,
+        "w": 576,
+        "h": 384
+      }
+    },
+    {
+      "filename": "resources/paperdolls/sv_acca_p05.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 576,
+        "h": 384
+      },
+      "sourceSize": {
+        "w": 576,
+        "h": 384
+      },
+      "rotated": true,
+      "frame": {
+        "x": 1344,
+        "y": 384,
+        "w": 384,
+        "h": 576
+      }
+    },
+    {
+      "filename": "resources/paperdolls/sv_acca_p05_c.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 576,
+        "h": 384
+      },
+      "sourceSize": {
+        "w": 576,
+        "h": 384
+      },
+      "rotated": true,
+      "frame": {
+        "x": 1152,
+        "y": 1344,
+        "w": 384,
+        "h": 576
+      }
+    },
+    {
+      "filename": "resources/paperdolls/sv_acca_p06.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 576,
+        "h": 384
+      },
+      "sourceSize": {
+        "w": 576,
+        "h": 384
+      },
+      "rotated": true,
+      "frame": {
+        "x": 1536,
+        "y": 1344,
+        "w": 384,
+        "h": 576
+      }
+    }
+  ],
+  "meta": {
+    "image": "50.png",
+    "size": {
+      "w": 1920,
+      "h": 1920
+    }
+  }
+}

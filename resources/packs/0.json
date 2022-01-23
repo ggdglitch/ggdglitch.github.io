@@ -1,0 +1,2831 @@
+{
+  "frames": [
+    {
+      "filename": "resources/tilesets/2-woods.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 256,
+        "h": 800
+      },
+      "sourceSize": {
+        "w": 256,
+        "h": 800
+      },
+      "rotated": false,
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 256,
+        "h": 800
+      }
+    },
+    {
+      "filename": "resources/tilesets/5-beach.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 256,
+        "h": 544
+      },
+      "sourceSize": {
+        "w": 256,
+        "h": 544
+      },
+      "rotated": false,
+      "frame": {
+        "x": 0,
+        "y": 800,
+        "w": 256,
+        "h": 544
+      }
+    },
+    {
+      "filename": "resources/tilesets/7-swamp.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 256,
+        "h": 448
+      },
+      "sourceSize": {
+        "w": 256,
+        "h": 448
+      },
+      "rotated": false,
+      "frame": {
+        "x": 0,
+        "y": 1344,
+        "w": 256,
+        "h": 448
+      }
+    },
+    {
+      "filename": "resources/tilesets/30-ship.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 256,
+        "h": 1184
+      },
+      "sourceSize": {
+        "w": 256,
+        "h": 1184
+      },
+      "rotated": true,
+      "frame": {
+        "x": 0,
+        "y": 1792,
+        "w": 1184,
+        "h": 256
+      }
+    },
+    {
+      "filename": "resources/tilesets/31-ship.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 256,
+        "h": 928
+      },
+      "sourceSize": {
+        "w": 256,
+        "h": 928
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1184,
+        "y": 0,
+        "w": 256,
+        "h": 928
+      }
+    },
+    {
+      "filename": "resources/tilesets/36-shop.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 256,
+        "h": 1248
+      },
+      "sourceSize": {
+        "w": 256,
+        "h": 1248
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1440,
+        "y": 0,
+        "w": 256,
+        "h": 1248
+      }
+    },
+    {
+      "filename": "resources/tilesets/37-fort.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 256,
+        "h": 960
+      },
+      "sourceSize": {
+        "w": 256,
+        "h": 960
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1184,
+        "y": 928,
+        "w": 256,
+        "h": 960
+      }
+    },
+    {
+      "filename": "resources/tilesets/38-fort.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 256,
+        "h": 832
+      },
+      "sourceSize": {
+        "w": 256,
+        "h": 832
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1696,
+        "y": 0,
+        "w": 256,
+        "h": 832
+      }
+    },
+    {
+      "filename": "resources/tilesets/43-cave.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 256,
+        "h": 1056
+      },
+      "sourceSize": {
+        "w": 256,
+        "h": 1056
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1696,
+        "y": 832,
+        "w": 256,
+        "h": 1056
+      }
+    },
+    {
+      "filename": "resources/tilesets/44-cave.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 256,
+        "h": 1056
+      },
+      "sourceSize": {
+        "w": 256,
+        "h": 1056
+      },
+      "rotated": false,
+      "frame": {
+        "x": 256,
+        "y": 0,
+        "w": 256,
+        "h": 1056
+      }
+    },
+    {
+      "filename": "resources/tilesets/45-cave.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 256,
+        "h": 1056
+      },
+      "sourceSize": {
+        "w": 256,
+        "h": 1056
+      },
+      "rotated": false,
+      "frame": {
+        "x": 512,
+        "y": 0,
+        "w": 256,
+        "h": 1056
+      }
+    },
+    {
+      "filename": "resources/tilesets/46-cave.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 256,
+        "h": 1056
+      },
+      "sourceSize": {
+        "w": 256,
+        "h": 1056
+      },
+      "rotated": false,
+      "frame": {
+        "x": 768,
+        "y": 0,
+        "w": 256,
+        "h": 1056
+      }
+    },
+    {
+      "filename": "resources/tilesets/47-mine.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 256,
+        "h": 864
+      },
+      "sourceSize": {
+        "w": 256,
+        "h": 864
+      },
+      "rotated": true,
+      "frame": {
+        "x": 256,
+        "y": 1056,
+        "w": 864,
+        "h": 256
+      }
+    },
+    {
+      "filename": "resources/tilesets/3-forest.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 256,
+        "h": 608
+      },
+      "sourceSize": {
+        "w": 256,
+        "h": 608
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1440,
+        "y": 1248,
+        "w": 256,
+        "h": 608
+      }
+    },
+    {
+      "filename": "resources/tilesets/6-desert.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 256,
+        "h": 608
+      },
+      "sourceSize": {
+        "w": 256,
+        "h": 608
+      },
+      "rotated": true,
+      "frame": {
+        "x": 256,
+        "y": 1312,
+        "w": 608,
+        "h": 256
+      }
+    },
+    {
+      "filename": "resources/tilesets/111-tree.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 96,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 96,
+        "h": 128
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1440,
+        "y": 1856,
+        "w": 96,
+        "h": 128
+      }
+    },
+    {
+      "filename": "resources/tilesets/112-bush.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 96,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 96,
+        "h": 128
+      },
+      "rotated": true,
+      "frame": {
+        "x": 1536,
+        "y": 1856,
+        "w": 128,
+        "h": 96
+      }
+    },
+    {
+      "filename": "resources/tilesets/131-doors.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 256
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 256
+      },
+      "rotated": true,
+      "frame": {
+        "x": 1184,
+        "y": 1888,
+        "w": 256,
+        "h": 128
+      }
+    },
+    {
+      "filename": "resources/tilesets/132-door2.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 384,
+        "h": 256
+      },
+      "sourceSize": {
+        "w": 384,
+        "h": 256
+      },
+      "rotated": true,
+      "frame": {
+        "x": 864,
+        "y": 1312,
+        "w": 256,
+        "h": 384
+      }
+    },
+    {
+      "filename": "resources/tilesets/133-door3.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 256
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 256
+      },
+      "rotated": true,
+      "frame": {
+        "x": 1664,
+        "y": 1888,
+        "w": 256,
+        "h": 128
+      }
+    },
+    {
+      "filename": "resources/tilesets/114-flower.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 96,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 96,
+        "h": 128
+      },
+      "rotated": true,
+      "frame": {
+        "x": 1536,
+        "y": 1952,
+        "w": 128,
+        "h": 96
+      }
+    },
+    {
+      "filename": "resources/tilesets/135-chests.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 192
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 192
+      },
+      "rotated": false,
+      "frame": {
+        "x": 256,
+        "y": 1568,
+        "w": 128,
+        "h": 192
+      }
+    },
+    {
+      "filename": "resources/tilesets/138-chest4.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 192
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 192
+      },
+      "rotated": false,
+      "frame": {
+        "x": 384,
+        "y": 1568,
+        "w": 128,
+        "h": 192
+      }
+    },
+    {
+      "filename": "resources/tilesets/64-dirthill.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 96,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 96,
+        "h": 128
+      },
+      "rotated": true,
+      "frame": {
+        "x": 1920,
+        "y": 1888,
+        "w": 128,
+        "h": 96
+      }
+    },
+    {
+      "filename": "resources/tilesets/65-sandhill.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 96,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 96,
+        "h": 128
+      },
+      "rotated": true,
+      "frame": {
+        "x": 512,
+        "y": 1696,
+        "w": 128,
+        "h": 96
+      }
+    },
+    {
+      "filename": "resources/tilesets/66-darksand.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 96,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 96,
+        "h": 128
+      },
+      "rotated": false,
+      "frame": {
+        "x": 512,
+        "y": 1568,
+        "w": 96,
+        "h": 128
+      }
+    },
+    {
+      "filename": "resources/tilesets/75-woodwall.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 96,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 96,
+        "h": 128
+      },
+      "rotated": false,
+      "frame": {
+        "x": 608,
+        "y": 1568,
+        "w": 96,
+        "h": 128
+      }
+    },
+    {
+      "filename": "resources/tilesets/76-sandwall.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 96,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 96,
+        "h": 128
+      },
+      "rotated": true,
+      "frame": {
+        "x": 704,
+        "y": 1568,
+        "w": 128,
+        "h": 96
+      }
+    },
+    {
+      "filename": "resources/tilesets/113-treetop.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 96,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 96,
+        "h": 128
+      },
+      "rotated": false,
+      "frame": {
+        "x": 704,
+        "y": 1664,
+        "w": 96,
+        "h": 128
+      }
+    },
+    {
+      "filename": "resources/tilesets/136-chests2.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 192
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 192
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1024,
+        "y": 0,
+        "w": 128,
+        "h": 192
+      }
+    },
+    {
+      "filename": "resources/tilesets/137-chests3.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 192
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 192
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1024,
+        "y": 192,
+        "w": 128,
+        "h": 192
+      }
+    },
+    {
+      "filename": "resources/tilesets/52-grassland.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 96,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 96,
+        "h": 128
+      },
+      "rotated": true,
+      "frame": {
+        "x": 800,
+        "y": 1696,
+        "w": 128,
+        "h": 96
+      }
+    },
+    {
+      "filename": "resources/tilesets/54-grasssand.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 96,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 96,
+        "h": 128
+      },
+      "rotated": true,
+      "frame": {
+        "x": 928,
+        "y": 1696,
+        "w": 128,
+        "h": 96
+      }
+    },
+    {
+      "filename": "resources/tilesets/62-grasshill.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 96,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 96,
+        "h": 128
+      },
+      "rotated": true,
+      "frame": {
+        "x": 1056,
+        "y": 1696,
+        "w": 128,
+        "h": 96
+      }
+    },
+    {
+      "filename": "resources/tilesets/63-grasshole.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 96,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 96,
+        "h": 128
+      },
+      "rotated": true,
+      "frame": {
+        "x": 1024,
+        "y": 384,
+        "w": 128,
+        "h": 96
+      }
+    },
+    {
+      "filename": "resources/tilesets/73-stoneroad.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 96,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 96,
+        "h": 128
+      },
+      "rotated": true,
+      "frame": {
+        "x": 1024,
+        "y": 480,
+        "w": 128,
+        "h": 96
+      }
+    },
+    {
+      "filename": "resources/tilesets/74-stonewall.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 96,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 96,
+        "h": 128
+      },
+      "rotated": true,
+      "frame": {
+        "x": 1024,
+        "y": 576,
+        "w": 128,
+        "h": 96
+      }
+    },
+    {
+      "filename": "resources/tilesets/77-brickwall.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 96,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 96,
+        "h": 128
+      },
+      "rotated": true,
+      "frame": {
+        "x": 1024,
+        "y": 672,
+        "w": 128,
+        "h": 96
+      }
+    },
+    {
+      "filename": "resources/tilesets/92-iceyfloor.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 96,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 96,
+        "h": 128
+      },
+      "rotated": true,
+      "frame": {
+        "x": 1024,
+        "y": 768,
+        "w": 128,
+        "h": 96
+      }
+    },
+    {
+      "filename": "resources/tilesets/96-iceywater.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 96,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 96,
+        "h": 128
+      },
+      "rotated": true,
+      "frame": {
+        "x": 1024,
+        "y": 864,
+        "w": 128,
+        "h": 96
+      }
+    },
+    {
+      "filename": "resources/tilesets/53-grassysand.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 96,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 96,
+        "h": 128
+      },
+      "rotated": true,
+      "frame": {
+        "x": 1024,
+        "y": 960,
+        "w": 128,
+        "h": 96
+      }
+    },
+    {
+      "filename": "resources/tilesets/55-grassblock.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 96,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 96,
+        "h": 128
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1952,
+        "y": 0,
+        "w": 96,
+        "h": 128
+      }
+    },
+    {
+      "filename": "resources/tilesets/57-grassydirt.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 96,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 96,
+        "h": 128
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1952,
+        "y": 128,
+        "w": 96,
+        "h": 128
+      }
+    },
+    {
+      "filename": "resources/tilesets/67-sandygrass.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 96,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 96,
+        "h": 128
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1952,
+        "y": 256,
+        "w": 96,
+        "h": 128
+      }
+    },
+    {
+      "filename": "resources/tilesets/70-grassysand.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 96,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 96,
+        "h": 128
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1952,
+        "y": 384,
+        "w": 96,
+        "h": 128
+      }
+    },
+    {
+      "filename": "resources/tilesets/78-rockground.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 96,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 96,
+        "h": 128
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1952,
+        "y": 512,
+        "w": 96,
+        "h": 128
+      }
+    },
+    {
+      "filename": "resources/tilesets/80-dirtground.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 96,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 96,
+        "h": 128
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1952,
+        "y": 640,
+        "w": 96,
+        "h": 128
+      }
+    },
+    {
+      "filename": "resources/tilesets/84-royalfloor.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 96,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 96,
+        "h": 128
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1952,
+        "y": 768,
+        "w": 96,
+        "h": 128
+      }
+    },
+    {
+      "filename": "resources/tilesets/95-snowyfloor.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 96,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 96,
+        "h": 128
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1952,
+        "y": 896,
+        "w": 96,
+        "h": 128
+      }
+    },
+    {
+      "filename": "resources/tilesets/100-greyfloor.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 96,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 96,
+        "h": 128
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1952,
+        "y": 1024,
+        "w": 96,
+        "h": 128
+      }
+    },
+    {
+      "filename": "resources/tilesets/102-evilfloor.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 96,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 96,
+        "h": 128
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1952,
+        "y": 1152,
+        "w": 96,
+        "h": 128
+      }
+    },
+    {
+      "filename": "resources/tilesets/103-evilwater.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 96,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 96,
+        "h": 128
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1952,
+        "y": 1280,
+        "w": 96,
+        "h": 128
+      }
+    },
+    {
+      "filename": "resources/tilesets/108-rockysand.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 96,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 96,
+        "h": 128
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1952,
+        "y": 1408,
+        "w": 96,
+        "h": 128
+      }
+    },
+    {
+      "filename": "resources/tilesets/109-stoneroad.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 96,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 96,
+        "h": 128
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1952,
+        "y": 1536,
+        "w": 96,
+        "h": 128
+      }
+    },
+    {
+      "filename": "resources/tilesets/58-grassyleafs.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 96,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 96,
+        "h": 128
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1952,
+        "y": 1664,
+        "w": 96,
+        "h": 128
+      }
+    },
+    {
+      "filename": "resources/entities/189.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 96,
+        "h": 96
+      },
+      "sourceSize": {
+        "w": 96,
+        "h": 96
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1952,
+        "y": 1792,
+        "w": 96,
+        "h": 96
+      }
+    },
+    {
+      "filename": "resources/entities/190.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1440,
+        "y": 1984,
+        "w": 64,
+        "h": 64
+      }
+    },
+    {
+      "filename": "resources/spells/dash.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 32,
+        "h": 32
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1664,
+        "y": 1856,
+        "w": 32,
+        "h": 32
+      }
+    },
+    {
+      "filename": "resources/spells/earth_01.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 32,
+        "h": 32
+      },
+      "rotated": false,
+      "frame": {
+        "x": 800,
+        "y": 1664,
+        "w": 32,
+        "h": 32
+      }
+    },
+    {
+      "filename": "resources/spells/earth_02.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 32,
+        "h": 32
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1504,
+        "y": 1984,
+        "w": 32,
+        "h": 32
+      }
+    },
+    {
+      "filename": "resources/spells/electric_01.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 32,
+        "h": 32
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1504,
+        "y": 2016,
+        "w": 32,
+        "h": 32
+      }
+    },
+    {
+      "filename": "resources/spells/electric_02.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 32,
+        "h": 32
+      },
+      "rotated": false,
+      "frame": {
+        "x": 832,
+        "y": 1568,
+        "w": 32,
+        "h": 32
+      }
+    },
+    {
+      "filename": "resources/spells/fire_01.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 32,
+        "h": 32
+      },
+      "rotated": false,
+      "frame": {
+        "x": 832,
+        "y": 1600,
+        "w": 32,
+        "h": 32
+      }
+    },
+    {
+      "filename": "resources/spells/fire_02.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 32,
+        "h": 32
+      },
+      "rotated": false,
+      "frame": {
+        "x": 832,
+        "y": 1632,
+        "w": 32,
+        "h": 32
+      }
+    },
+    {
+      "filename": "resources/spells/heal_01.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 32,
+        "h": 32
+      },
+      "rotated": false,
+      "frame": {
+        "x": 832,
+        "y": 1664,
+        "w": 32,
+        "h": 32
+      }
+    },
+    {
+      "filename": "resources/spells/heal_02.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 32,
+        "h": 32
+      },
+      "rotated": false,
+      "frame": {
+        "x": 640,
+        "y": 1696,
+        "w": 32,
+        "h": 32
+      }
+    },
+    {
+      "filename": "resources/spells/ice_01.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 32,
+        "h": 32
+      },
+      "rotated": false,
+      "frame": {
+        "x": 672,
+        "y": 1696,
+        "w": 32,
+        "h": 32
+      }
+    },
+    {
+      "filename": "resources/spells/ice_02.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 32,
+        "h": 32
+      },
+      "rotated": false,
+      "frame": {
+        "x": 640,
+        "y": 1728,
+        "w": 32,
+        "h": 32
+      }
+    },
+    {
+      "filename": "resources/spells/poison_01.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 32,
+        "h": 32
+      },
+      "rotated": false,
+      "frame": {
+        "x": 640,
+        "y": 1760,
+        "w": 32,
+        "h": 32
+      }
+    },
+    {
+      "filename": "resources/spells/poison_02.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 32,
+        "h": 32
+      },
+      "rotated": false,
+      "frame": {
+        "x": 672,
+        "y": 1728,
+        "w": 32,
+        "h": 32
+      }
+    },
+    {
+      "filename": "resources/spells/projectilebuff_01.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 32,
+        "h": 32
+      },
+      "rotated": false,
+      "frame": {
+        "x": 672,
+        "y": 1760,
+        "w": 32,
+        "h": 32
+      }
+    },
+    {
+      "filename": "resources/spells/projectilebuff_02.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 32,
+        "h": 32
+      },
+      "rotated": false,
+      "frame": {
+        "x": 256,
+        "y": 1760,
+        "w": 32,
+        "h": 32
+      }
+    },
+    {
+      "filename": "resources/spells/revive.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 32,
+        "h": 32
+      },
+      "rotated": false,
+      "frame": {
+        "x": 288,
+        "y": 1760,
+        "w": 32,
+        "h": 32
+      }
+    },
+    {
+      "filename": "resources/spells/spirit_01.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 32,
+        "h": 32
+      },
+      "rotated": false,
+      "frame": {
+        "x": 320,
+        "y": 1760,
+        "w": 32,
+        "h": 32
+      }
+    },
+    {
+      "filename": "resources/spells/spirit_02.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 32,
+        "h": 32
+      },
+      "rotated": false,
+      "frame": {
+        "x": 352,
+        "y": 1760,
+        "w": 32,
+        "h": 32
+      }
+    },
+    {
+      "filename": "resources/spells/water_01.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 32,
+        "h": 32
+      },
+      "rotated": false,
+      "frame": {
+        "x": 384,
+        "y": 1760,
+        "w": 32,
+        "h": 32
+      }
+    },
+    {
+      "filename": "resources/spells/water_02.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 32,
+        "h": 32
+      },
+      "rotated": false,
+      "frame": {
+        "x": 416,
+        "y": 1760,
+        "w": 32,
+        "h": 32
+      }
+    },
+    {
+      "filename": "resources/spells/weaponbuff_01.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 32,
+        "h": 32
+      },
+      "rotated": false,
+      "frame": {
+        "x": 448,
+        "y": 1760,
+        "w": 32,
+        "h": 32
+      }
+    },
+    {
+      "filename": "resources/spells/weaponbuff_02.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 32,
+        "h": 32
+      },
+      "rotated": false,
+      "frame": {
+        "x": 480,
+        "y": 1760,
+        "w": 32,
+        "h": 32
+      }
+    },
+    {
+      "filename": "resources/spells/wind_01.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 32,
+        "h": 32
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1184,
+        "y": 2016,
+        "w": 32,
+        "h": 32
+      }
+    },
+    {
+      "filename": "resources/spells/wind_02.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 32,
+        "h": 32
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1216,
+        "y": 2016,
+        "w": 32,
+        "h": 32
+      }
+    },
+    {
+      "filename": "resources/animations/5. flames.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 93,
+        "h": 34
+      },
+      "sourceSize": {
+        "w": 93,
+        "h": 34
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1920,
+        "y": 1984,
+        "w": 93,
+        "h": 34
+      }
+    },
+    {
+      "filename": "resources/animations/6. fishing bubbles.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 93,
+        "h": 34
+      },
+      "sourceSize": {
+        "w": 93,
+        "h": 34
+      },
+      "rotated": true,
+      "frame": {
+        "x": 1120,
+        "y": 1056,
+        "w": 34,
+        "h": 93
+      }
+    },
+    {
+      "filename": "resources/animations/7. fishing pole.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 93,
+        "h": 34
+      },
+      "sourceSize": {
+        "w": 93,
+        "h": 34
+      },
+      "rotated": true,
+      "frame": {
+        "x": 1120,
+        "y": 1149,
+        "w": 34,
+        "h": 93
+      }
+    },
+    {
+      "filename": "resources/animations/action02.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 93,
+        "h": 34
+      },
+      "sourceSize": {
+        "w": 93,
+        "h": 34
+      },
+      "rotated": true,
+      "frame": {
+        "x": 1120,
+        "y": 1242,
+        "w": 34,
+        "h": 93
+      }
+    },
+    {
+      "filename": "resources/animations/blood.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 544,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 544,
+        "h": 32
+      },
+      "rotated": true,
+      "frame": {
+        "x": 1152,
+        "y": 0,
+        "w": 32,
+        "h": 544
+      }
+    },
+    {
+      "filename": "resources/animations/bonetoss.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 32
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1248,
+        "y": 2016,
+        "w": 128,
+        "h": 32
+      }
+    },
+    {
+      "filename": "resources/animations/campfire.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 160,
+        "h": 42
+      },
+      "sourceSize": {
+        "w": 160,
+        "h": 42
+      },
+      "rotated": true,
+      "frame": {
+        "x": 1120,
+        "y": 1335,
+        "w": 42,
+        "h": 160
+      }
+    },
+    {
+      "filename": "resources/animations/campfire_alt.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 160,
+        "h": 42
+      },
+      "sourceSize": {
+        "w": 160,
+        "h": 42
+      },
+      "rotated": true,
+      "frame": {
+        "x": 1120,
+        "y": 1495,
+        "w": 42,
+        "h": 160
+      }
+    },
+    {
+      "filename": "resources/animations/emote_concern.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 192,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 192,
+        "h": 32
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1664,
+        "y": 2016,
+        "w": 192,
+        "h": 32
+      }
+    },
+    {
+      "filename": "resources/animations/emote_laugh.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 192,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 192,
+        "h": 32
+      },
+      "rotated": true,
+      "frame": {
+        "x": 1152,
+        "y": 544,
+        "w": 32,
+        "h": 192
+      }
+    },
+    {
+      "filename": "resources/animations/emote_lookaround.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 192,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 192,
+        "h": 32
+      },
+      "rotated": true,
+      "frame": {
+        "x": 1152,
+        "y": 736,
+        "w": 32,
+        "h": 192
+      }
+    },
+    {
+      "filename": "resources/images/chatbubble.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 32
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1376,
+        "y": 2016,
+        "w": 64,
+        "h": 32
+      }
+    },
+    {
+      "filename": "resources/images/raw_shrimps.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 31,
+        "h": 26
+      },
+      "sourceSize": {
+        "w": 31,
+        "h": 26
+      },
+      "rotated": true,
+      "frame": {
+        "x": 1856,
+        "y": 2016,
+        "w": 26,
+        "h": 31
+      }
+    },
+    {
+      "filename": "resources/resources/anchovies.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 25
+      },
+      "sourceSize": {
+        "w": 32,
+        "h": 25
+      },
+      "rotated": true,
+      "frame": {
+        "x": 1882,
+        "y": 2016,
+        "w": 25,
+        "h": 32
+      }
+    },
+    {
+      "filename": "resources/resources/herring.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 22
+      },
+      "sourceSize": {
+        "w": 32,
+        "h": 22
+      },
+      "rotated": false,
+      "frame": {
+        "x": 2013,
+        "y": 1984,
+        "w": 32,
+        "h": 22
+      }
+    },
+    {
+      "filename": "resources/resources/lobster.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 34,
+        "h": 30
+      },
+      "sourceSize": {
+        "w": 34,
+        "h": 30
+      },
+      "rotated": false,
+      "frame": {
+        "x": 2013,
+        "y": 2006,
+        "w": 34,
+        "h": 30
+      }
+    },
+    {
+      "filename": "resources/resources/raw_anchovies.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 25
+      },
+      "sourceSize": {
+        "w": 32,
+        "h": 25
+      },
+      "rotated": true,
+      "frame": {
+        "x": 1120,
+        "y": 1655,
+        "w": 25,
+        "h": 32
+      }
+    },
+    {
+      "filename": "resources/resources/raw_herring.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 22
+      },
+      "sourceSize": {
+        "w": 32,
+        "h": 22
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1145,
+        "y": 1655,
+        "w": 32,
+        "h": 22
+      }
+    },
+    {
+      "filename": "resources/resources/raw_lobster.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 34,
+        "h": 31
+      },
+      "sourceSize": {
+        "w": 34,
+        "h": 31
+      },
+      "rotated": true,
+      "frame": {
+        "x": 1152,
+        "y": 928,
+        "w": 31,
+        "h": 34
+      }
+    },
+    {
+      "filename": "resources/resources/raw_sardine.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 19,
+        "h": 15
+      },
+      "sourceSize": {
+        "w": 19,
+        "h": 15
+      },
+      "rotated": true,
+      "frame": {
+        "x": 1145,
+        "y": 1677,
+        "w": 15,
+        "h": 19
+      }
+    },
+    {
+      "filename": "resources/resources/raw_shark.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 30,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 30,
+        "h": 32
+      },
+      "rotated": true,
+      "frame": {
+        "x": 1152,
+        "y": 962,
+        "w": 32,
+        "h": 30
+      }
+    },
+    {
+      "filename": "resources/resources/raw_shrimps.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 31,
+        "h": 26
+      },
+      "sourceSize": {
+        "w": 31,
+        "h": 26
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1152,
+        "y": 992,
+        "w": 31,
+        "h": 26
+      }
+    },
+    {
+      "filename": "resources/resources/raw_swordfish.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 35,
+        "h": 29
+      },
+      "sourceSize": {
+        "w": 35,
+        "h": 29
+      },
+      "rotated": true,
+      "frame": {
+        "x": 1152,
+        "y": 1018,
+        "w": 29,
+        "h": 35
+      }
+    },
+    {
+      "filename": "resources/resources/raw_tuna.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 30,
+        "h": 25
+      },
+      "sourceSize": {
+        "w": 30,
+        "h": 25
+      },
+      "rotated": true,
+      "frame": {
+        "x": 1907,
+        "y": 2018,
+        "w": 25,
+        "h": 30
+      }
+    },
+    {
+      "filename": "resources/resources/sardine.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 19,
+        "h": 15
+      },
+      "sourceSize": {
+        "w": 19,
+        "h": 15
+      },
+      "rotated": true,
+      "frame": {
+        "x": 1160,
+        "y": 1677,
+        "w": 15,
+        "h": 19
+      }
+    },
+    {
+      "filename": "resources/resources/shrimps.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 31,
+        "h": 26
+      },
+      "sourceSize": {
+        "w": 31,
+        "h": 26
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1932,
+        "y": 2018,
+        "w": 31,
+        "h": 26
+      }
+    },
+    {
+      "filename": "resources/resources/swordfish.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 35,
+        "h": 28
+      },
+      "sourceSize": {
+        "w": 35,
+        "h": 28
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1963,
+        "y": 2018,
+        "w": 35,
+        "h": 28
+      }
+    },
+    {
+      "filename": "resources/resources/tuna.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 30,
+        "h": 24
+      },
+      "sourceSize": {
+        "w": 30,
+        "h": 24
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1154,
+        "y": 1053,
+        "w": 30,
+        "h": 24
+      }
+    },
+    {
+      "filename": "resources/gui/addstatclicked.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 9,
+        "h": 9
+      },
+      "sourceSize": {
+        "w": 9,
+        "h": 9
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1175,
+        "y": 1677,
+        "w": 9,
+        "h": 9
+      }
+    },
+    {
+      "filename": "resources/gui/addstathover.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 9,
+        "h": 9
+      },
+      "sourceSize": {
+        "w": 9,
+        "h": 9
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1175,
+        "y": 1686,
+        "w": 9,
+        "h": 9
+      }
+    },
+    {
+      "filename": "resources/gui/addstatnormal.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 9,
+        "h": 9
+      },
+      "sourceSize": {
+        "w": 9,
+        "h": 9
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1120,
+        "y": 1687,
+        "w": 9,
+        "h": 9
+      }
+    },
+    {
+      "filename": "resources/gui/checkboxempty.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 24,
+        "h": 25
+      },
+      "sourceSize": {
+        "w": 24,
+        "h": 25
+      },
+      "rotated": true,
+      "frame": {
+        "x": 1154,
+        "y": 1077,
+        "w": 25,
+        "h": 24
+      }
+    },
+    {
+      "filename": "resources/gui/checkboxfull.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 24,
+        "h": 25
+      },
+      "sourceSize": {
+        "w": 24,
+        "h": 25
+      },
+      "rotated": true,
+      "frame": {
+        "x": 1154,
+        "y": 1101,
+        "w": 25,
+        "h": 24
+      }
+    },
+    {
+      "filename": "resources/gui/closeclicked.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 26,
+        "h": 25
+      },
+      "sourceSize": {
+        "w": 26,
+        "h": 25
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1154,
+        "y": 1125,
+        "w": 26,
+        "h": 25
+      }
+    },
+    {
+      "filename": "resources/gui/closehover.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 26,
+        "h": 25
+      },
+      "sourceSize": {
+        "w": 26,
+        "h": 25
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1154,
+        "y": 1150,
+        "w": 26,
+        "h": 25
+      }
+    },
+    {
+      "filename": "resources/gui/closenormal.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 26,
+        "h": 25
+      },
+      "sourceSize": {
+        "w": 26,
+        "h": 25
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1154,
+        "y": 1175,
+        "w": 26,
+        "h": 25
+      }
+    },
+    {
+      "filename": "resources/gui/control_button.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 120,
+        "h": 28
+      },
+      "sourceSize": {
+        "w": 120,
+        "h": 28
+      },
+      "rotated": true,
+      "frame": {
+        "x": 1154,
+        "y": 1200,
+        "w": 28,
+        "h": 120
+      }
+    },
+    {
+      "filename": "resources/gui/craftbar.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 247,
+        "h": 5
+      },
+      "sourceSize": {
+        "w": 247,
+        "h": 5
+      },
+      "rotated": true,
+      "frame": {
+        "x": 1177,
+        "y": 1320,
+        "w": 5,
+        "h": 247
+      }
+    },
+    {
+      "filename": "resources/gui/downarrowclicked.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 15,
+        "h": 15
+      },
+      "sourceSize": {
+        "w": 15,
+        "h": 15
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1154,
+        "y": 1320,
+        "w": 15,
+        "h": 15
+      }
+    },
+    {
+      "filename": "resources/gui/downarrowhover.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 15,
+        "h": 15
+      },
+      "sourceSize": {
+        "w": 15,
+        "h": 15
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1998,
+        "y": 2018,
+        "w": 15,
+        "h": 15
+      }
+    },
+    {
+      "filename": "resources/gui/downarrownormal.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 15,
+        "h": 15
+      },
+      "sourceSize": {
+        "w": 15,
+        "h": 15
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1998,
+        "y": 2033,
+        "w": 15,
+        "h": 15
+      }
+    },
+    {
+      "filename": "resources/gui/dropdownbg.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 5,
+        "h": 5
+      },
+      "sourceSize": {
+        "w": 5,
+        "h": 5
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1129,
+        "y": 1687,
+        "w": 5,
+        "h": 5
+      }
+    },
+    {
+      "filename": "resources/gui/equipped.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 5,
+        "h": 5
+      },
+      "sourceSize": {
+        "w": 5,
+        "h": 5
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1134,
+        "y": 1687,
+        "w": 5,
+        "h": 5
+      }
+    },
+    {
+      "filename": "resources/gui/expbar.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 168,
+        "h": 14
+      },
+      "sourceSize": {
+        "w": 168,
+        "h": 14
+      },
+      "rotated": true,
+      "frame": {
+        "x": 1162,
+        "y": 1335,
+        "w": 14,
+        "h": 168
+      }
+    },
+    {
+      "filename": "resources/gui/hotbar_label.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 5,
+        "h": 5
+      },
+      "sourceSize": {
+        "w": 5,
+        "h": 5
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1139,
+        "y": 1687,
+        "w": 5,
+        "h": 5
+      }
+    },
+    {
+      "filename": "resources/gui/quantity.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 5,
+        "h": 5
+      },
+      "sourceSize": {
+        "w": 5,
+        "h": 5
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1169,
+        "y": 1320,
+        "w": 5,
+        "h": 5
+      }
+    },
+    {
+      "filename": "resources/gui/scrollbarbg.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 5,
+        "h": 5
+      },
+      "sourceSize": {
+        "w": 5,
+        "h": 5
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1169,
+        "y": 1325,
+        "w": 5,
+        "h": 5
+      }
+    },
+    {
+      "filename": "resources/gui/scrollbarclicked.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 5,
+        "h": 5
+      },
+      "sourceSize": {
+        "w": 5,
+        "h": 5
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1169,
+        "y": 1330,
+        "w": 5,
+        "h": 5
+      }
+    },
+    {
+      "filename": "resources/gui/scrollbarhover.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 5,
+        "h": 5
+      },
+      "sourceSize": {
+        "w": 5,
+        "h": 5
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1179,
+        "y": 1077,
+        "w": 5,
+        "h": 5
+      }
+    },
+    {
+      "filename": "resources/gui/scrollbarnormal.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 5,
+        "h": 5
+      },
+      "sourceSize": {
+        "w": 5,
+        "h": 5
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1179,
+        "y": 1082,
+        "w": 5,
+        "h": 5
+      }
+    },
+    {
+      "filename": "resources/gui/uparrowclicked.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 15,
+        "h": 15
+      },
+      "sourceSize": {
+        "w": 15,
+        "h": 15
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1162,
+        "y": 1567,
+        "w": 15,
+        "h": 15
+      }
+    },
+    {
+      "filename": "resources/gui/uparrowhover.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 15,
+        "h": 15
+      },
+      "sourceSize": {
+        "w": 15,
+        "h": 15
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1162,
+        "y": 1503,
+        "w": 15,
+        "h": 15
+      }
+    },
+    {
+      "filename": "resources/gui/uparrownormal.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 15,
+        "h": 15
+      },
+      "sourceSize": {
+        "w": 15,
+        "h": 15
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1162,
+        "y": 1518,
+        "w": 15,
+        "h": 15
+      }
+    },
+    {
+      "filename": "resources/gui/uparrownormal_medium.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 20,
+        "h": 20
+      },
+      "sourceSize": {
+        "w": 20,
+        "h": 20
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1162,
+        "y": 1582,
+        "w": 20,
+        "h": 20
+      }
+    },
+    {
+      "filename": "resources/gui/volume_slider.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 9,
+        "h": 35
+      },
+      "sourceSize": {
+        "w": 9,
+        "h": 35
+      },
+      "rotated": true,
+      "frame": {
+        "x": 2013,
+        "y": 2036,
+        "w": 35,
+        "h": 9
+      }
+    },
+    {
+      "filename": "resources/gui/volume_slider_hovered.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 9,
+        "h": 35
+      },
+      "sourceSize": {
+        "w": 9,
+        "h": 35
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1162,
+        "y": 1602,
+        "w": 9,
+        "h": 35
+      }
+    },
+    {
+      "filename": "resources/items/3.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 13,
+        "h": 13
+      },
+      "sourceSize": {
+        "w": 13,
+        "h": 13
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1162,
+        "y": 1637,
+        "w": 13,
+        "h": 13
+      }
+    },
+    {
+      "filename": "resources/items/food_05.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 13,
+        "h": 13
+      },
+      "sourceSize": {
+        "w": 13,
+        "h": 13
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1171,
+        "y": 1602,
+        "w": 13,
+        "h": 13
+      }
+    },
+    {
+      "filename": "resources/items/raw_sardine.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 19,
+        "h": 15
+      },
+      "sourceSize": {
+        "w": 19,
+        "h": 15
+      },
+      "rotated": true,
+      "frame": {
+        "x": 1162,
+        "y": 1533,
+        "w": 15,
+        "h": 19
+      }
+    },
+    {
+      "filename": "resources/misc/castbackground.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 6
+      },
+      "sourceSize": {
+        "w": 32,
+        "h": 6
+      },
+      "rotated": true,
+      "frame": {
+        "x": 1175,
+        "y": 1615,
+        "w": 6,
+        "h": 32
+      }
+    }
+  ],
+  "meta": {
+    "image": "0.png",
+    "size": {
+      "w": 2048,
+      "h": 2048
+    }
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "frames": [
+    {
+      "filename": "resources/animations/stateparalys.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 960,
+        "h": 960
+      },
+      "sourceSize": {
+        "w": 960,
+        "h": 960
+      },
+      "rotated": false,
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 960,
+        "h": 960
+      }
+    },
+    {
+      "filename": "resources/animations/statepoison.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 960,
+        "h": 576
+      },
+      "sourceSize": {
+        "w": 960,
+        "h": 576
+      },
+      "rotated": true,
+      "frame": {
+        "x": 0,
+        "y": 960,
+        "w": 576,
+        "h": 960
+      }
+    },
+    {
+      "filename": "resources/animations/statesilent.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 960,
+        "h": 768
+      },
+      "sourceSize": {
+        "w": 960,
+        "h": 768
+      },
+      "rotated": true,
+      "frame": {
+        "x": 576,
+        "y": 960,
+        "w": 768,
+        "h": 960
+      }
+    },
+    {
+      "filename": "resources/animations/statesleep.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 960,
+        "h": 960
+      },
+      "sourceSize": {
+        "w": 960,
+        "h": 960
+      },
+      "rotated": false,
+      "frame": {
+        "x": 960,
+        "y": 0,
+        "w": 960,
+        "h": 960
+      }
+    },
+    {
+      "filename": "resources/animations/stickphoton.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 960,
+        "h": 384
+      },
+      "sourceSize": {
+        "w": 960,
+        "h": 384
+      },
+      "rotated": true,
+      "frame": {
+        "x": 1344,
+        "y": 960,
+        "w": 384,
+        "h": 960
+      }
+    },
+    {
+      "filename": "resources/gui/mainmenu.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 452,
+        "h": 213
+      },
+      "sourceSize": {
+        "w": 452,
+        "h": 213
+      },
+      "rotated": true,
+      "frame": {
+        "x": 1728,
+        "y": 960,
+        "w": 213,
+        "h": 452
+      }
+    },
+    {
+      "filename": "resources/gui/options_horizontal.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 452,
+        "h": 213
+      },
+      "sourceSize": {
+        "w": 452,
+        "h": 213
+      },
+      "rotated": true,
+      "frame": {
+        "x": 1728,
+        "y": 1412,
+        "w": 213,
+        "h": 452
+      }
+    }
+  ],
+  "meta": {
+    "image": "44.png",
+    "size": {
+      "w": 1941,
+      "h": 1920
+    }
+  }
+}

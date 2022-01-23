@@ -1,0 +1,391 @@
+{
+  "frames": [
+    {
+      "filename": "resources/animations/7..png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 960,
+        "h": 768
+      },
+      "sourceSize": {
+        "w": 960,
+        "h": 768
+      },
+      "rotated": false,
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 960,
+        "h": 768
+      }
+    },
+    {
+      "filename": "resources/animations/absorb.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 960,
+        "h": 960
+      },
+      "sourceSize": {
+        "w": 960,
+        "h": 960
+      },
+      "rotated": false,
+      "frame": {
+        "x": 960,
+        "y": 0,
+        "w": 960,
+        "h": 960
+      }
+    },
+    {
+      "filename": "resources/animations/arrowspecial.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 960,
+        "h": 576
+      },
+      "sourceSize": {
+        "w": 960,
+        "h": 576
+      },
+      "rotated": false,
+      "frame": {
+        "x": 0,
+        "y": 768,
+        "w": 960,
+        "h": 576
+      }
+    },
+    {
+      "filename": "resources/animations/asda (1).png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 960,
+        "h": 960
+      },
+      "sourceSize": {
+        "w": 960,
+        "h": 960
+      },
+      "rotated": false,
+      "frame": {
+        "x": 960,
+        "y": 960,
+        "w": 960,
+        "h": 960
+      }
+    },
+    {
+      "filename": "resources/animations/asda (11).png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 960,
+        "h": 384
+      },
+      "sourceSize": {
+        "w": 960,
+        "h": 384
+      },
+      "rotated": false,
+      "frame": {
+        "x": 0,
+        "y": 1344,
+        "w": 960,
+        "h": 384
+      }
+    },
+    {
+      "filename": "resources/animations/asda (30).png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 960,
+        "h": 192
+      },
+      "sourceSize": {
+        "w": 960,
+        "h": 192
+      },
+      "rotated": false,
+      "frame": {
+        "x": 0,
+        "y": 1728,
+        "w": 960,
+        "h": 192
+      }
+    },
+    {
+      "filename": "resources/gui/mainmenu_exit_hovered.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 87,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 87,
+        "h": 154
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1920,
+        "y": 0,
+        "w": 87,
+        "h": 154
+      }
+    },
+    {
+      "filename": "resources/gui/mainmenu_login.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 87,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 87,
+        "h": 154
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1920,
+        "y": 154,
+        "w": 87,
+        "h": 154
+      }
+    },
+    {
+      "filename": "resources/gui/mainmenu_login_clicked.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 87,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 87,
+        "h": 154
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1920,
+        "y": 308,
+        "w": 87,
+        "h": 154
+      }
+    },
+    {
+      "filename": "resources/gui/mainmenu_login_disabled.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 87,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 87,
+        "h": 154
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1920,
+        "y": 462,
+        "w": 87,
+        "h": 154
+      }
+    },
+    {
+      "filename": "resources/gui/mainmenu_login_hovered.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 87,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 87,
+        "h": 154
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1920,
+        "y": 616,
+        "w": 87,
+        "h": 154
+      }
+    },
+    {
+      "filename": "resources/gui/mainmenu_settings.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 87,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 87,
+        "h": 154
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1920,
+        "y": 770,
+        "w": 87,
+        "h": 154
+      }
+    },
+    {
+      "filename": "resources/gui/mainmenu_settings_clicked.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 87,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 87,
+        "h": 154
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1920,
+        "y": 924,
+        "w": 87,
+        "h": 154
+      }
+    },
+    {
+      "filename": "resources/gui/mainmenu_settings_disabled.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 87,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 87,
+        "h": 154
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1920,
+        "y": 1078,
+        "w": 87,
+        "h": 154
+      }
+    },
+    {
+      "filename": "resources/gui/mainmenu_settings_hovered.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 87,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 87,
+        "h": 154
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1920,
+        "y": 1232,
+        "w": 87,
+        "h": 154
+      }
+    },
+    {
+      "filename": "resources/gui/mainmenu_signup.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 87,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 87,
+        "h": 154
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1920,
+        "y": 1386,
+        "w": 87,
+        "h": 154
+      }
+    },
+    {
+      "filename": "resources/gui/mainmenu_signup_clicked.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 87,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 87,
+        "h": 154
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1920,
+        "y": 1540,
+        "w": 87,
+        "h": 154
+      }
+    },
+    {
+      "filename": "resources/gui/mainmenu_signup_disabled.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 87,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 87,
+        "h": 154
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1920,
+        "y": 1694,
+        "w": 87,
+        "h": 154
+      }
+    },
+    {
+      "filename": "resources/gui/mainmenu_signup_hovered.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 87,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 87,
+        "h": 154
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1920,
+        "y": 1848,
+        "w": 87,
+        "h": 154
+      }
+    }
+  ],
+  "meta": {
+    "image": "9.png",
+    "size": {
+      "w": 2007,
+      "h": 2002
+    }
+  }
+}

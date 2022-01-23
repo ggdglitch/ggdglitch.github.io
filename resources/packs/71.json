@@ -1,0 +1,111 @@
+{
+  "frames": [
+    {
+      "filename": "resources/paperdolls/sv_wing_p05_c.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 576,
+        "h": 384
+      },
+      "sourceSize": {
+        "w": 576,
+        "h": 384
+      },
+      "rotated": false,
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 576,
+        "h": 384
+      }
+    },
+    {
+      "filename": "resources/gui/background.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 1920,
+        "h": 1080
+      },
+      "sourceSize": {
+        "w": 1920,
+        "h": 1080
+      },
+      "rotated": true,
+      "frame": {
+        "x": 576,
+        "y": 0,
+        "w": 1080,
+        "h": 1920
+      }
+    },
+    {
+      "filename": "resources/gui/bank.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 442,
+        "h": 469
+      },
+      "sourceSize": {
+        "w": 442,
+        "h": 469
+      },
+      "rotated": true,
+      "frame": {
+        "x": 0,
+        "y": 384,
+        "w": 469,
+        "h": 442
+      }
+    },
+    {
+      "filename": "resources/gui/crafting.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 442,
+        "h": 469
+      },
+      "sourceSize": {
+        "w": 442,
+        "h": 469
+      },
+      "rotated": true,
+      "frame": {
+        "x": 0,
+        "y": 826,
+        "w": 469,
+        "h": 442
+      }
+    },
+    {
+      "filename": "resources/gui/defaultskin.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 512,
+        "h": 512
+      },
+      "sourceSize": {
+        "w": 512,
+        "h": 512
+      },
+      "rotated": false,
+      "frame": {
+        "x": 0,
+        "y": 1268,
+        "w": 512,
+        "h": 512
+      }
+    }
+  ],
+  "meta": {
+    "image": "71.png",
+    "size": {
+      "w": 1656,
+      "h": 1920
+    }
+  }
+}

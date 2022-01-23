@@ -1,0 +1,731 @@
+{
+  "frames": [
+    {
+      "filename": "resources/animations/027-support04.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 960,
+        "h": 576
+      },
+      "sourceSize": {
+        "w": 960,
+        "h": 576
+      },
+      "rotated": false,
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 960,
+        "h": 576
+      }
+    },
+    {
+      "filename": "resources/animations/028-state01.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 960,
+        "h": 384
+      },
+      "sourceSize": {
+        "w": 960,
+        "h": 384
+      },
+      "rotated": false,
+      "frame": {
+        "x": 960,
+        "y": 0,
+        "w": 960,
+        "h": 384
+      }
+    },
+    {
+      "filename": "resources/animations/029-emotion01.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 960,
+        "h": 384
+      },
+      "sourceSize": {
+        "w": 960,
+        "h": 384
+      },
+      "rotated": false,
+      "frame": {
+        "x": 960,
+        "y": 384,
+        "w": 960,
+        "h": 384
+      }
+    },
+    {
+      "filename": "resources/animations/030-explosion01.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 960,
+        "h": 384
+      },
+      "sourceSize": {
+        "w": 960,
+        "h": 384
+      },
+      "rotated": false,
+      "frame": {
+        "x": 0,
+        "y": 576,
+        "w": 960,
+        "h": 384
+      }
+    },
+    {
+      "filename": "resources/animations/20160210_xheartheal by hadecynn.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 960,
+        "h": 1344
+      },
+      "sourceSize": {
+        "w": 960,
+        "h": 1344
+      },
+      "rotated": true,
+      "frame": {
+        "x": 0,
+        "y": 960,
+        "w": 1344,
+        "h": 960
+      }
+    },
+    {
+      "filename": "resources/animations/action01.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 960,
+        "h": 384
+      },
+      "sourceSize": {
+        "w": 960,
+        "h": 384
+      },
+      "rotated": true,
+      "frame": {
+        "x": 1344,
+        "y": 768,
+        "w": 384,
+        "h": 960
+      }
+    },
+    {
+      "filename": "resources/animations/asda (18).png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 960,
+        "h": 192
+      },
+      "sourceSize": {
+        "w": 960,
+        "h": 192
+      },
+      "rotated": true,
+      "frame": {
+        "x": 1728,
+        "y": 768,
+        "w": 192,
+        "h": 960
+      }
+    },
+    {
+      "filename": "resources/animations/hit2.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 576,
+        "h": 192
+      },
+      "sourceSize": {
+        "w": 576,
+        "h": 192
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1344,
+        "y": 1728,
+        "w": 576,
+        "h": 192
+      }
+    },
+    {
+      "filename": "resources/paperdolls/sv_clothing1_pxx.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 144,
+        "h": 192
+      },
+      "sourceSize": {
+        "w": 144,
+        "h": 192
+      },
+      "rotated": false,
+      "frame": {
+        "x": 960,
+        "y": 768,
+        "w": 144,
+        "h": 192
+      }
+    },
+    {
+      "filename": "resources/paperdolls/sv_clothing1_pxx_c.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 144,
+        "h": 192
+      },
+      "sourceSize": {
+        "w": 144,
+        "h": 192
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1104,
+        "y": 768,
+        "w": 144,
+        "h": 192
+      }
+    },
+    {
+      "filename": "resources/gui/ingame_charselect_clicked.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 87,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 87,
+        "h": 154
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1248,
+        "y": 768,
+        "w": 87,
+        "h": 154
+      }
+    },
+    {
+      "filename": "resources/gui/ingame_charselect_disabled.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 87,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 87,
+        "h": 154
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1920,
+        "y": 0,
+        "w": 87,
+        "h": 154
+      }
+    },
+    {
+      "filename": "resources/gui/ingame_charselect_hovered.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 87,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 87,
+        "h": 154
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1920,
+        "y": 154,
+        "w": 87,
+        "h": 154
+      }
+    },
+    {
+      "filename": "resources/gui/ingame_closemenu.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 87,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 87,
+        "h": 154
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1920,
+        "y": 308,
+        "w": 87,
+        "h": 154
+      }
+    },
+    {
+      "filename": "resources/gui/ingame_closemenu_clicked.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 87,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 87,
+        "h": 154
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1920,
+        "y": 462,
+        "w": 87,
+        "h": 154
+      }
+    },
+    {
+      "filename": "resources/gui/ingame_closemenu_disabled.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 87,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 87,
+        "h": 154
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1920,
+        "y": 616,
+        "w": 87,
+        "h": 154
+      }
+    },
+    {
+      "filename": "resources/gui/ingame_closemenu_hovered.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 87,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 87,
+        "h": 154
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1920,
+        "y": 770,
+        "w": 87,
+        "h": 154
+      }
+    },
+    {
+      "filename": "resources/gui/ingame_exitdesktop.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 87,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 87,
+        "h": 154
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1920,
+        "y": 924,
+        "w": 87,
+        "h": 154
+      }
+    },
+    {
+      "filename": "resources/gui/ingame_exitdesktop_clicked.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 87,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 87,
+        "h": 154
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1920,
+        "y": 1078,
+        "w": 87,
+        "h": 154
+      }
+    },
+    {
+      "filename": "resources/gui/ingame_exitdesktop_disabled.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 87,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 87,
+        "h": 154
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1920,
+        "y": 1232,
+        "w": 87,
+        "h": 154
+      }
+    },
+    {
+      "filename": "resources/gui/ingame_exitdesktop_hovered.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 87,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 87,
+        "h": 154
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1920,
+        "y": 1386,
+        "w": 87,
+        "h": 154
+      }
+    },
+    {
+      "filename": "resources/gui/ingame_logout.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 87,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 87,
+        "h": 154
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1920,
+        "y": 1540,
+        "w": 87,
+        "h": 154
+      }
+    },
+    {
+      "filename": "resources/gui/ingame_logout_clicked.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 87,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 87,
+        "h": 154
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1920,
+        "y": 1694,
+        "w": 87,
+        "h": 154
+      }
+    },
+    {
+      "filename": "resources/gui/ingame_logout_disabled.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 87,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 87,
+        "h": 154
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1920,
+        "y": 1848,
+        "w": 87,
+        "h": 154
+      }
+    },
+    {
+      "filename": "resources/gui/ingame_logout_hovered.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 87,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 87,
+        "h": 154
+      },
+      "rotated": true,
+      "frame": {
+        "x": 0,
+        "y": 1920,
+        "w": 154,
+        "h": 87
+      }
+    },
+    {
+      "filename": "resources/gui/ingame_settings.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 87,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 87,
+        "h": 154
+      },
+      "rotated": true,
+      "frame": {
+        "x": 154,
+        "y": 1920,
+        "w": 154,
+        "h": 87
+      }
+    },
+    {
+      "filename": "resources/gui/ingame_settings_clicked.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 87,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 87,
+        "h": 154
+      },
+      "rotated": true,
+      "frame": {
+        "x": 308,
+        "y": 1920,
+        "w": 154,
+        "h": 87
+      }
+    },
+    {
+      "filename": "resources/gui/ingame_settings_disabled.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 87,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 87,
+        "h": 154
+      },
+      "rotated": true,
+      "frame": {
+        "x": 462,
+        "y": 1920,
+        "w": 154,
+        "h": 87
+      }
+    },
+    {
+      "filename": "resources/gui/ingame_settings_hovered.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 87,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 87,
+        "h": 154
+      },
+      "rotated": true,
+      "frame": {
+        "x": 616,
+        "y": 1920,
+        "w": 154,
+        "h": 87
+      }
+    },
+    {
+      "filename": "resources/gui/mainmenu_credits.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 87,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 87,
+        "h": 154
+      },
+      "rotated": true,
+      "frame": {
+        "x": 770,
+        "y": 1920,
+        "w": 154,
+        "h": 87
+      }
+    },
+    {
+      "filename": "resources/gui/mainmenu_credits_clicked.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 87,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 87,
+        "h": 154
+      },
+      "rotated": true,
+      "frame": {
+        "x": 924,
+        "y": 1920,
+        "w": 154,
+        "h": 87
+      }
+    },
+    {
+      "filename": "resources/gui/mainmenu_credits_disabled.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 87,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 87,
+        "h": 154
+      },
+      "rotated": true,
+      "frame": {
+        "x": 1078,
+        "y": 1920,
+        "w": 154,
+        "h": 87
+      }
+    },
+    {
+      "filename": "resources/gui/mainmenu_credits_hovered.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 87,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 87,
+        "h": 154
+      },
+      "rotated": true,
+      "frame": {
+        "x": 1232,
+        "y": 1920,
+        "w": 154,
+        "h": 87
+      }
+    },
+    {
+      "filename": "resources/gui/mainmenu_exit.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 87,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 87,
+        "h": 154
+      },
+      "rotated": true,
+      "frame": {
+        "x": 1386,
+        "y": 1920,
+        "w": 154,
+        "h": 87
+      }
+    },
+    {
+      "filename": "resources/gui/mainmenu_exit_clicked.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 87,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 87,
+        "h": 154
+      },
+      "rotated": true,
+      "frame": {
+        "x": 1540,
+        "y": 1920,
+        "w": 154,
+        "h": 87
+      }
+    },
+    {
+      "filename": "resources/gui/mainmenu_exit_disabled.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 87,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 87,
+        "h": 154
+      },
+      "rotated": true,
+      "frame": {
+        "x": 1694,
+        "y": 1920,
+        "w": 154,
+        "h": 87
+      }
+    }
+  ],
+  "meta": {
+    "image": "8.png",
+    "size": {
+      "w": 2007,
+      "h": 2007
+    }
+  }
+}
