@@ -1,2 +1,0 @@
-# ggdglitch.github.io
- elderupdate
