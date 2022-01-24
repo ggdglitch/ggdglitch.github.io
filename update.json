@@ -11066,11 +11066,6 @@
       "Hash": "95a3553522bbcbe57aaec91921196a07",
       "Size": 3435
     },
-    {
-      "Path": "resources/tilesets/desktop.ini",
-      "Hash": "9194305a8b4482ec7553e43c179283b1",
-      "Size": 105
-    },
   ],
   "TrustCache": true
 }
