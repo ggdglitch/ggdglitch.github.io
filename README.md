@@ -1,3 +1,3 @@
 # ggdglitch.github.io
 elderupdate
-update.json
+ugh
